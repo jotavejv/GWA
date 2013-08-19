@@ -13,3 +13,4 @@ Contribua adiconando conteúdo relevante para que a Web seja acessível.
 - Usability checklist [link](http://userium.com/)
 - CSS e acessibilidade na web [link](http://blog.w3c.br/css-e-acessibilidade-na-web/)
 - bengalalegal [link](http://www.bengalalegal.com/)
+- AChecker - [link](http://www.youtube.com/watch?v=jtNyF7KuOk8&feature=youtu.be)
