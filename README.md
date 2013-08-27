@@ -14,3 +14,6 @@ Contribua adiconando conteúdo relevante para que a Web seja acessível.
 - CSS e acessibilidade na web [link](http://blog.w3c.br/css-e-acessibilidade-na-web/)
 - bengalalegal [link](http://www.bengalalegal.com/)
 - AChecker - [link](http://www.youtube.com/watch?v=jtNyF7KuOk8&feature=youtu.be)
+- Frontinsampa - Frontend com Acessibilidade - [link](http://www.youtube.com/watch?v=hmw0bFD7GHw&feature=youtu.be)
+- CPBR6 - Design de interfaces e acessibilidade - [link](http://www.youtube.com/watch?feature=player_embedded&v=69KwFec3mlo#!)
+- Slides para Devs #9 – Acessibilidade na web - [link](http://tableless.com.br/slides-para-devs-9-acessibilidade-na-web/#.UhzH5tLBOSp)
